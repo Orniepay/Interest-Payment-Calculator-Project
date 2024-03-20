@@ -1,4 +1,20 @@
 def main():
+    """
+    Calculates and displays the monthly payment for a loan based on user input.
+
+    This function acts as a monthly payment loan calculator. It prompts the user
+    to enter the principal amount of the loan, the annual interest rate, and the
+    duration of the loan in years. It then calculates the monthly payment based
+    on these inputs using the formula for a fixed-rate loan. The calculated
+    monthly payment is displayed to two decimal places.
+
+    Parameters:
+    None
+
+    Returns:
+    None: The function outputs the calculated monthly payment to the console
+    and does not return a value.
+    """
     
     print("")
     print("Monthly payment loan calculator ")
